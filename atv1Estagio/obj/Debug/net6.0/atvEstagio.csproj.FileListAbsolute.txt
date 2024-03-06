@@ -1,0 +1,15 @@
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\bin\Debug\net6.0\atvEstagio.exe
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\bin\Debug\net6.0\atvEstagio.deps.json
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\bin\Debug\net6.0\atvEstagio.runtimeconfig.json
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\bin\Debug\net6.0\atvEstagio.dll
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\bin\Debug\net6.0\atvEstagio.pdb
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.csproj.AssemblyReference.cache
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.AssemblyInfoInputs.cache
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.AssemblyInfo.cs
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.csproj.CoreCompileInputs.cache
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.dll
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\refint\atvEstagio.dll
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.pdb
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\atvEstagio.genruntimeconfig.cache
+D:\Users\Astrinn\Documents\host\repository\estagio-target\atvEstagio\obj\Debug\net6.0\ref\atvEstagio.dll

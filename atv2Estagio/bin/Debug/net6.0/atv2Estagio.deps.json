@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "atv2Estagio/1.0.0": {
+        "runtime": {
+          "atv2Estagio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atv2Estagio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
